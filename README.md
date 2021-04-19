@@ -11,7 +11,7 @@ The data collected from current loans offer a variety of attributes to train, te
 
 <b>Descriptive statistics regarding the dataframe:</i>
 
-<img src="Images/x_describe.png" alt="df.describe"> FIC
+<img src="Images/x_describe.png" alt="df.describe"> 
 
 <br>
 
