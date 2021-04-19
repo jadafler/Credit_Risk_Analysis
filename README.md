@@ -16,7 +16,7 @@ The data collected from current loans offer a variety of attributes to train, te
 <br>
 <br>
 
-<b><i>The Balanced Accuracy Score</i></b> provides the average of the accuracy per class. Additionally, the <b><i>Precision</i></b> and <b><i>Recall</i></b> returns from the  Confusion Matrix will provide the following analysis: the precision will measure whether the prediction is represented strongly when evaluating the data. The recall will reflect the how well the predication determined the outcome.  
+<b><i>The Balanced Accuracy Score</i></b> provides the average of the accuracy per class. Additionally, the <b><i>Precision</i></b> and <b><i>Recall</i></b> returns from the  Confusion Matrix will provide the following analysis: the precision will measure whether the prediction is represented strongly when evaluating the data. The recall will reflect how well the predication determined the outcome.  
 
 <br>
 <br>
