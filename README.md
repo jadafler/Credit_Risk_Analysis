@@ -14,25 +14,38 @@ The data collected from current loans offer a variety of attributes to train, te
 <img src="Images/df.describe.png" alt="df.describe"> 
 
 <br>
+<br>
 
 <b><i>The Balanced Accuracy Score</i></b> provides the average of the accuracy per class. Additionally, the <b><i>Precision</i></b> and <b><i>Recall</i></b> returns from the  Confusion Matrix will provide the following analysis: the precision will measure whether the prediction is represented strongly when evaluating the data. The recall will reflect the how well the predication determined the outcome.  
 
 <br>
-<li><b>Random Over Sampler Classification Report, Balanced Accuracy Score = 67%</b></li>
-<img src="Images/ROS_report.png" alt="Random Over Sampler Classification Report">
 <br>
-<li><b>SMOTE Classification Report, Balanced Accuracy Score = 66%</b></li>
-<img src="Images/smote_report.png" alt="SMOTE Classification Report">
-<br>
+
 <li><b>Cluster Centroids Resampler Classification Report, Balanced Accuracy Score = 54%</b></li>
 <img src="Images/CCR_report.png" alt="Cluster Centroids Resampler Classification Report">
+
 <br>
+
 <li><b>SMOTEENN Classification Report, Balanced Accuracy Score = 66%</b></li>
 <img src="Images/smoteenn_report.png" alt="SMOTEENN Classification Report">
+
 <br>
+
+<li><b>SMOTE Classification Report, Balanced Accuracy Score = 66%</b></li>
+<img src="Images/smote_report.png" alt="SMOTE Classification Report">
+
+<br>
+
+<li><b>Random Over Sampler Classification Report, Balanced Accuracy Score = 67%</b></li>
+<img src="Images/ROS_report.png" alt="Random Over Sampler Classification Report">
+
+<br>
+
 <li><b>Random Forest Classification Report, Balanced Accuracy Score = 79%</b></li>
 <img src="Images/RFC_report.png" alt="Random Forest Classifier Classification Report">
+
 <br>
+
 <li><b>Easy Ensemble Classifier Classification Report, Balanced Accuracy Score = 93%</b></li>
 <img src="Images/EEC_report.png" alt="Easy Ensemble Classifier Classification Report">
 
